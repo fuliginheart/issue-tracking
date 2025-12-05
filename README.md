@@ -1,4 +1,4 @@
-# [Project Name] - Issue Tracker
+# Fuligin Heart - Issue Tracker
 
 Welcome to the public issue tracker for all **Fuligin Heart** releases.
 
