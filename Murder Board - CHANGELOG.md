@@ -1,6 +1,6 @@
 # Murder Board Changelog
 
-## 1.1.0 - 2025-12-14
+## 1.2.0 - 2025-12-14
 
 ### Added Features
 
