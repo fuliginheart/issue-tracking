@@ -79,3 +79,8 @@
 **Error Handling**
 - Fixed `addRecentColor()` error in Document Item Dialog (changed to `addColorToPalette()`)
 - Fixed "Please provide an image URL" error when dragging scenes without images
+
+
+## 1.0.0 - 2025-12-3
+
+### Initial Release
