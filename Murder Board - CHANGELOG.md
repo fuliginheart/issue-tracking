@@ -1,5 +1,16 @@
 # Murder Board Changelog
 
+
+## 1.2.1 - 2025-12-14
+
+### Fixed
+
+- Custom fonts now render in the font select dropboxes
+
+### Changed
+
+- Removed delete confirmaiton dialoge when deletign items from the board.
+
 ## 1.2.0 - 2025-12-14
 
 ### Added Features
